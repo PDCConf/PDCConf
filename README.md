@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Powerhell DevOps and Cloud Conference
+- 👋 Hi, I’m Platform DevOps and Cloud Conference
 - 👀 I’m interested in PowerShell DevOps Cloud and actually everythong in IT.
 
 <!---
